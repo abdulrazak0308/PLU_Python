@@ -1,0 +1,158 @@
+Python Projects 
+1.  AI Desktop Voice Assistant (Alexa Clone) Stack:
+
+-   Python
+-   SQLite3
+-   SpeechRecognition
+-   pyttsx3
+-   pyautogui
+-   psutil
+-   webbrowsere
+-   subprocess
+-   threading
+
+2.  AI Resume Analyzer Stack:
+
+-   Python
+-   SQLite3
+-   PyMuPDF (or pdfplumber)
+-   OpenAI/Gemini API
+-   Tkinter / CustomTkinter
+
+3.  AI Meeting Assistant Stack:
+
+-   Python
+-   SQLite3
+-   Whisper
+-   OpenAI/Gemini API
+-   Tkinter
+-   ReportLab
+
+4.  Smart Expense Manager Stack:
+
+-   Python
+-   SQLite3
+-   OCR (EasyOCR or Tesseract)
+-   matplotlib
+-   pandas
+
+5.  AI Email Assistant Stack:
+
+-   Python
+-   SQLite3
+-   IMAP/SMTP
+-   OpenAI/Gemini API
+
+6.  Local Document Chat (Mini RAG) Stack:
+
+-   Python
+-   SQLite3
+-   LangChain/LlamaIndex
+-   ChromaDB or FAISS
+-   OpenAI/Gemini API
+
+7.  Smart File Organizer Stack:
+
+-   Python
+-   SQLite3
+-   watchdog
+-   pathlib
+-   shutil
+
+8.  PC Health Monitor Stack:
+
+-   Python
+-   SQLite3
+-   psutil
+-   GPUtil
+-   Tkinter
+
+9.  AI Code Reviewer Stack:
+
+-   Python
+-   SQLite3
+-   ast
+-   pylint / flake8
+-   OpenAI/Gemini API
+
+10. Invoice & Billing System Stack:
+
+-   Python
+-   SQLite3
+-   ReportLab
+-   qrcode
+
+11. Password Manager Stack:
+
+-   Python
+-   SQLite3
+-   cryptography
+-   Tkinter
+
+12. API Monitoring Dashboard Stack:
+
+-   Python
+-   SQLite3
+-   requests
+-   matplotlib
+
+13. Smart Inventory Management System Stack:
+
+-   Python
+-   SQLite3
+-   OpenCV
+-   qrcode
+-   ReportLab
+
+14. Personal Knowledge Base Stack:
+
+-   Python
+-   SQLite3
+-   Markdown
+-   OpenAI/Gemini API
+
+15. PDF Intelligence Tool Stack:
+
+-   Python
+-   SQLite3
+-   PyMuPDF
+-   Camelot/Tabula
+-   OpenAI/Gemini API
+
+16. GitHub Portfolio Analyzer Stack:
+
+-   Python
+-   SQLite3
+-   GitHub REST API
+-   requests
+-   matplotlib
+
+17. Student Placement Tracker Stack:
+
+-   Python
+-   SQLite3
+-   Tkinter
+-   ReportLab
+
+18. Fake News Detector Stack:
+
+-   Python
+-   SQLite3
+-   scikit-learn
+-   pandas
+-   News API
+
+19. AI Customer Support Ticket System Stack:
+
+-   Python
+-   SQLite3
+-   Flask
+-   OpenAI/Gemini API
+
+20. Local Business CRM Stack:
+
+-   Python
+-   SQLite3
+-   Tkinter or Flask
+-   ReportLab
+-   OpenAI/Gemini API
